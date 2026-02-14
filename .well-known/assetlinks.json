@@ -1,0 +1,9 @@
+ [{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.caloritre.caloritre",
+      "sha256_cert_fingerprints":
+  ["41:13:CA:11:1F:BF:AB:C9:FC:57:41:DF:BC:70:57:7A:94:A9:EF:10:25:61:AA:D6:32:65:A9:AA:A1:36:FB:9B"]  
+    }
+  }]
