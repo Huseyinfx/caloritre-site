@@ -1,9 +1,13 @@
- [{
+[
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.caloritre.caloritre",
-      "sha256_cert_fingerprints":
-  ["41:13:CA:11:1F:BF:AB:C9:FC:57:41:DF:BC:70:57:7A:94:A9:EF:10:25:61:AA:D6:32:65:A9:AA:A1:36:FB:9B"]  
+      "sha256_cert_fingerprints": [
+        "41:13:CA:11:1F:BF:AB:C9:FC:57:41:DF:BC:70:57:7A:94:A9:EF:10:25:61:AA:D6:32:65:A9:AA:A1:36:FB:9B",
+        "DC:77:26:8B:A7:6E:19:42:5A:4C:36:54:7B:70:94:85:CA:B0:D8:A6:FD:AB:7B:31:64:50:47:0B:BF:32:E2:FB"
+      ]
     }
-  }]
+  }
+]
